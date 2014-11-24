@@ -1,0 +1,333 @@
+/* General */
+
+body
+{
+	background-image: url('background.png');
+	background-repeat: repeat-x;
+	background-color: #99e3df;
+	font-family: Arial, serif;
+	color: black;
+}
+
+#header
+{
+	z-index: 20;
+	
+	position: relative;
+	right: -50px;
+	
+	margin: auto;
+	width: 873px;
+	height: 150px;
+	background-image: url('header.png');
+}
+
+#content
+{
+	z-index: 20;
+	
+	position: relative;
+	right: -50px;
+	
+	margin: auto;
+	width: 853px;
+	min-height: 200px;
+	background-image: url('milieu.png');
+	padding: 10px;
+	
+	text-align: center;
+}
+
+#footer
+{
+	z-index: 20;
+	
+	position: relative;
+	right: -50px;
+	
+	margin: auto;
+	width: 873px;
+	height: 150px;
+	background-image: url('footer.png');
+}
+
+#menu
+{
+	z-index: 10;
+	
+	text-align: left;           
+	position: fixed;
+	float: left;
+	top: 100px;
+	right: 50%;
+}
+
+#menu p
+{
+	padding: 5px 0px;
+	border-bottom: 1px solid #99e3df;
+}
+
+#menu p a
+{
+	color: black;
+	text-decoration: none;
+}
+
+#menu p a:hover
+{
+	color: #99e3df;
+}
+
+#menuTop
+{
+	background-image: url('menuTop.png');
+	width: 500px;
+	height: 80px;
+}
+
+#menuContent
+{
+	background-image: url('menu.png');
+	width: 500px;
+	
+	padding-left: 20px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+#menuBottom
+{
+	background-image: url('menuBottom.png');
+	width: 500px;
+	height: 80px;
+}
+
+#menuTopScreen
+{
+	z-index: 30;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	
+	width: 100%;
+	color: white;
+	height: 20px;
+	background-color: black;
+	
+	padding-left: 10px;
+	visibility: hidden;
+}
+
+#menuTopScreen a
+{
+	color: white;
+	text-decoration: none;
+}
+
+#newPage
+{
+	color: white;
+	text-decoration: none;
+	border-bottom: 1px dashed white;
+}
+
+#menuTopScreen a:hover, #newPage:hover
+{
+	color: #99e3df;
+	border-bottom: 1px dashed #99e3df;
+}
+
+#languageSelect
+{
+	position: absolute;
+	right: 10px;
+	bottom: 5px;
+	
+	color: white;
+	background-color: rgb(0, 0, 155);
+	background-color: rgba(0, 0, 155, 0.5);
+	padding-left: 5px;
+}
+
+#languageSelect select, #languageSelect input
+{
+	color: white;
+	background-color: rgb(0, 0, 155);
+	
+	border: 2px solid rgb(0, 0, 0);
+}
+
+#languageSelect #languageSubmit
+{
+	margin-top: 5px;
+	text-align: center;
+}
+
+#validation
+{
+	position: absolute;
+	left: 25px;
+	top: 10px;
+}
+
+#validation a img
+{
+	border: none;
+	opacity: 0.6;
+}
+
+#copyright
+{
+	color: white;
+	text-align: right;
+	font-weight: bold;
+	font-size: 8pt;
+	
+	position: absolute;
+	bottom: 10px;
+	right: 70px;
+	padding: 0px 5px;
+	
+	background-color: rgb(200, 200, 255);
+	background-color: rgba(200, 200, 255, 0.5);
+}
+
+.small
+{
+	font-size: 8pt;
+}
+
+.hidden
+{
+	display: none;
+}
+
+.justify
+{
+	text-align: justify;
+}
+
+.big
+{
+	font-size: 20pt;
+}
+
+/* Voting page */
+
+#add
+{
+	text-align: center;
+}
+
+#linkAdd
+{
+	padding: 4px;
+	border: 1px solid rgb(0, 0, 200);
+	background-color: rgb(200, 200, 255);
+	cursor: pointer;
+}
+
+#addForm p
+{
+	clear: left;
+	padding-top: 5px;
+}
+
+#addForm select, #addForm input, #addForm textarea
+{
+	color: white;
+	background-color: rgb(100, 100, 200);
+	
+	border: 2px solid rgb(0, 0, 0);
+	width: 30%;
+}
+
+#addForm #submitAdd
+{
+	margin-top: 10px;
+	width: 20%;
+}
+
+#addForm label
+{
+	width: 40%;
+	float: left;
+	text-align: right;
+	margin-right: 50px;
+}
+
+#addForm
+{
+	border: 1px solid lightblue;
+	padding: 5px;
+	margin: 10px;
+}
+
+#searchForm
+{
+	margin: 5px 0px;
+}
+
+#searchForm select, #searchForm input, #searchForm textarea
+{
+	color: white;
+	background-color: rgb(100, 100, 200);
+	
+	border: 2px solid rgb(0, 0, 0);
+	width: 20%;
+}
+
+.akas
+{
+	color: lightblue;
+	border-bottom: 1px lightblue dotted;
+	cursor: pointer;
+}
+
+.vote
+{
+	cursor: pointer;
+}
+
+.titleClick
+{
+	cursor: pointer;
+	color: lightblue;
+	text-decoration: underline;
+}
+
+/* Games table */
+table
+{
+	width: 100%;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+table thead
+{
+	font-weight: bold;
+	background-image: url('background.png');
+}
+
+table tr
+{
+	border: 1px solid black;
+}
+
+.gameTitle
+{
+	width: 60%;
+}
+
+/* FAQ */
+.question
+{
+	margin-top: 15px;
+}
+
+.answer
+{
+	margin-top: 10px;
+}

@@ -1,0 +1,8 @@
+# Fichier de configuration
+config.txt
+
+# Sauvegardes SQL
+*.sql
+
+# Images GIMP
+*.xcf

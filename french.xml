@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<language  xmlns:html="http://www.w3.org/TR/REC-html40">
+	<text id="language">Langue</text>
+	<text id="english">English (Anglais)</text>
+	<text id="french">Français</text>
+	<text id="copyright">Toutes les marques citées sur cette page appartiennent à leurs propriétaires respectifs.{{br /}}Si vous connaissez l'auteur de ce dessin, merci de nous contacter.</text>
+	<text id="menuMain">Page{{br /}}principale</text>
+	<text id="menuVote">Votez{{br /}}pour les jeux</text>
+	<text id="menuFaq">FAQ</text>
+	<text id="menuContact">Nous{{br /}}contacter</text>
+	
+	<text id="javascriptDisabled">Il semblerait que Javascript ne soit pas activé. Vous ne pourrez pas voter si vous ne l'activez pas !</text>
+	<text id="canAdd">Au fait : si le jeu pour lequel vous voulez voter n'existe pas dans notre base,{{br /}}vous pouvez l'ajouter en cliquant sur le bouton juste en dessous !</text>
+	<text id="beforeAdding">Avant d'ajouter un nouveau jeu, utilisez le formulaire de recherche pour vérifier qu'il n'existe pas déjà.{{br /}}N'oubliez pas de lire {{a href="faq.php5"}}la FAQ{{/a}} aussi. Enfin, comme vous voulez.</text>
+	<text id="addNewGame">Ajouter un nouveau jeu</text>
+	<text id="title">Titre</text>
+	<text id="console">Console</text>
+	<text id="consoleName">Nom de la console</text>
+	<text id="genre">Genre</text>
+	<text id="alsoKnownAs">Titres alternatifs</text>
+	<text id="alsoKnownAsExplanation">Si vous connaissez d'autres titres pour ce jeu (un titre différent dans chaque région du monde par exemple, ou un nom donné par les fans), écrivez-les ici, en les séparant d'un retour à la ligne.</text>
+	<text id="captcha">Combien font 40+2 ?</text>
+	<text id="captchaExplanation">Ça fait 42, au cas où. Simple mesure contre les bots.</text>
+	<text id="addThisGame">Ajouter ce jeu !</text>
+	<text id="reallyAddThisGame">Ajouter VRAIMENT ce jeu !</text>
+	
+	<text id="search">Chercher un jeu</text>
+	<text id="noResults">Aucun résultat. Peut-être que ce jeu n'existe pas ? Ajoutez-le !</text>
+	
+	<text id="gameAdded">Le jeu a bien été ajouté. Pas la peine de voter pour, c'est déjà fait !</text>
+	<text id="alreadyExists">Le jeu que vous voulez ajouter existe déjà, peut-être sous un autre nom. Pas la peine de l'ajouter deux fois !</text>
+	<text id="clickForVote">Cliquez sur son nom pour pouvoir voter pour.</text>
+	<text id="alreadyExistsOtherConsoles">Nous avons déjà le jeu que vous voulez ajouter dans notre base, mais sur d'autres consoles.{{br /}}
+	Si le jeu que vous vouliez ajouter est identique à l'un d'eux, cliquez sur son nom pour pouvoir voter pour lui. Si c'est un jeu multi-plateforme, nous prendrons la version qui nous convient le mieux.</text>
+	<text id="maybeAlreadyExists">Le jeu que vous voulez ajouter existe peut-être déjà dans notre base. Peut-être que non.{{br /}}
+	Regardez ces quelques titres. Si vous voyez le jeu que vous vouliez ajouter, cliquez dessus pour pouvoir voter.</text>
+	<text id="clickForReallyAdd">Si vous êtes sûr que le jeu que vous voulez ajouter n'existe pas déjà, cliquez sur le bouton "Ajouter VRAIMENT ce jeu" ci-dessus.</text>
+	<text id="aka">alias</text>
+	
+	<text id="tooMuchResults">Cette recherche a retourné beaucoup de résultats, et il y en a peut-être plus. Essayez de rendre votre recherche plus précise.</text>
+	
+	<text id="votes">Votes</text>
+	<text id="alreadyVoted">Vous avez déjà voté pour ce jeu !</text>
+	<text id="voteForThisGame">Ajouter un vote pour ce jeu</text>
+	
+	<text id="searchResults">Résultats de recherche</text>
+	<text id="topGames">Top des jeux</text>
+	<text id="lastVotes">Derniers votes reçus</text>
+	<text id="lastGames">Derniers jeux ajoutés</text>
+	
+	<text id="welcome">Bienvenue sur le site du Everything Marathon !</text>
+	<text id="intro">{{p}}Qu'est-ce que c'est, vous demandez-vous ? C'est simple. Vous avez peut-être déjà vu des marathons de jeux vidéo avant. Un {{a href="http://www.mariomarathon.com/"}}Super Mario Marathon{{/a}} a eu lieu tout récemment, et il y a un {{a href="http://www.thespeedgamers.com/"}}Final Fantasy Marathon{{/a}} en ce moment même !{{/p}}
+	{{p}}Le Everything Marathon fonctionne de la même façon : nous allons jouer, non-stop, et essayer de finir le plus de jeux possibles. Cependant, nous n'allons pas nous concentrer sur une série de jeux en particulier. Nous allons plutôt vous demander à VOUS de nous dire quels jeux vous voudriez voir. C'est très simple : lisez la FAQ en cas de doute, puis rendez-vous sur la page des votes. Ajoutez de nouveaux jeux, votez pour ceux qui sont déjà là, et lorsque la période de vote sera terminée, nous finirons les jeux ayant obtenus le plus de votes.{{/p}}
+	{{p}}Cependant, puisque nous ne prenons pas de donations, le nombre de jeux que nous allons faire dépendra du nombre de gens qui voteront. Jetez un œil sur le tableau plus bas pour voir combien de personnes ont déjà voté, et à combien de jeux cela correspond. Si vous voulez plus de jeux, c'est simple : votez, parlez-en à vos amis et sur d'autres sites !{{/p}}
+	{{p}}{{strong}}La période de vote se terminera le 24 juillet à 22:00.{{br /}}La diffusion commencera (si tout va bien) le 25 juillet à 14:00. Soyez au rendez-vous !{{/strong}}{{/p}}</text>
+	
+	<text id="currentVoters">Nombre de votants :</text>
+	
+	<text id="numberOfGames">Nombre de jeux</text>
+	<text id="numberofVoters">Nombre de voteurs requis</text>
+	<text id="ok">OK !</text>
+	<text id="lotsOfVoters">On va essayer d'en faire 6, et peut-être plus si on est encore vivants...</text>
+	<text id="twitter">Suivi du hastag #EverythingMarathon sur Twitter :</text>
+	<text id="chat">Chat :{{br /}}Pour choisir votre pseudo sur le chat, vous devez posséder un compte {{a href="http://www.ustream.tv/login-signup"}}uStream{{/a}}.{{br /}}Ou sinon, connectez-vous par IRC, serveur {{strong}}chat1.ustream.tv{{/strong}}, canal {{strong}}#everythingmarathon{{/strong}} !</text>
+	
+	<text id="votesClosed">Les votes sont à présent terminés !</text>
+	<text id="votesClosed2">Merci aux 143 votants ! Voici les six jeux qui ont reçu le plus de votes :</text>
+	<text id="votesClosed3">Nous allons déjà tenter de finir ces jeux-là...{{br /}}et si nous sommes encore vivants ensuite, il se pourrait que nous en fassions quelques autres !</text>
+	<text id="bonusStage">Bonus Stage !</text>
+	<text id="bonusStage2">De temps en temps, nous jouerons à quelques autres jeux en parallèle. Cela pourrait être d'autres jeux de la liste, ou des trucs qui n'ont rien à voir, et cela arrivera à n'importe quel moment. Soyez attentifs si vous ne voulez pas les rater !</text>
+	<text id="reminder">Rappel : la diffusion commencera (si tout va bien) le 25 juillet à 14:00 !</text>
+	
+	<text id="marathonInProgress">Le marathon est en cours !</text>
+	<text id="newPage">Afficher uniquement le stream et le chat</text>
+	<text id="gamesPlayed">Liste des jeux :</text>
+	<text id="status">Statut</text>
+	<text id="started">De</text>
+	<text id="finished">À</text>
+	<text id="inProgress">En cours...</text>
+	<text id="nextDay">Jour suivant</text>
+	<text id="chatNewPage">Le chat a été déplacé sur une nouvelle page. Cliquez sur le lien situé au dessus de la vidéo pour y accéder.</text>
+	<text id="chat2">Pour choisir votre pseudo sur le chat, vous devez posséder un compte {{a href="http://www.ustream.tv/login-signup"}}uStream{{/a}}.{{br /}}Ou sinon, connectez-vous par IRC, serveur {{strong}}chat1.ustream.tv{{/strong}}, canal {{strong}}#everythingmarathon{{/strong}} !</text>
+	<text id="backMainPage">Retour à la page principale</text>
+	
+	<text id="marathonOver">Le marathon est terminé !</text>
+	<text id="marathonOver2">Merci à nos spectateurs, surtout ceux qui ont participé au marathon avec nous grâce au chat !{{br /}}{{br /}}Nous ne sommes pas sûrs de retenter l'expérience un jour, surtout compte tenu du faible nombre de spectateurs, mais rien n'est encore décidé. Nous verrons ! Dans tous les cas, nous tenons à remercier encore ceux qui nous ont suivis pendant la majorité du marathon. Donc : merci !{{br /}}{{br /}}Vous trouverez ci-dessous les jeux apparus pendant le marathon. Nous avons pu terminer les six jeux élus, et faire quelques bonus stages. Nous n'avons fait certains jeux d'une traite, parce que faire une pause de temps en temps ça fait du bien, voilà pourquoi certains jeux apparaissent plusieurs fois.{{br /}}{{br /}}À la prochaine...Peut-être !</text>
+	<text id="voggle">Voggle, notre nouvelle mascotte !</text>
+	<text id="continued">(suite)</text>
+	<text id="end">(fin)</text>
+	<text id="time">Temps</text>
+	<text id="totalPlayTime">Temps total pour chaque jeu :</text>
+	<text id="uselessStream">Stream qui ne sert plus à rien :</text>
+	<text id="chatOver">Chat :</text>
+	
+	<text id="faqIntro">Vous trouverez ici des réponses à des questions que vous ne vous êtes jamais posées !</text>
+	
+	<text id="question1">Alors, comment ça marche, tout ça ?</text>
+	<text id="answer1">C'est très facile : nous finirons un certain nombre de jeu déterminé par le nombre de gens qui ont voté pour un ou plusieurs jeux. Les jeux que nous feront seront ceux qui auront obtenu le plus de votes à la fin de la période d'élection.</text> 
+	
+	<text id="question2">Comment voter pour un jeu ? Il faut s'enregistrer ?</text>
+	<text id="answer2">Pas besoin. Rendez-vous juste sur la page de vote, cliquez sur le bouton pour voter (celui-là : {{img alt="Voter" src="plus.png" /}}), et voilà ! Souvenez-vous que vous ne pouvez voter pour chaque jeu qu'une seule fois. Les jeux pour lesquels vous avez déjà votés seront accompagnés d'un bouton en noir et blanc.</text>
+	
+	<text id="question3">Comment chercher un jeu pour lequel je veux voter ?</text>
+	<text id="answer3">Utilisez le formulaire de recherche en haut de la page de vote. Vous pouvez rechercher par titre, console, genre, ou les trois à la fois, pour voir si un jeu existe déjà. S'il n'existe pas, pourquoi ne pas l'ajouter ?</text>
+	
+	<text id="question4">D'accord. Et comment ajouter un jeu ?</text>
+	<text id="answer4">Cliquez sur le bouton "Ajouter un nouveau jeu" pour faire apparaitre un nouveau formulaire. Essayez d'être aussi précis que possible (vérfiez le nom du jeu, et ajoutez tous les titres alternatifs que vous connaissez), puis cliquez sur le bouton "Ajouter ce jeu !". On effectuera d'abord une petite recherche pour voir si le jeu n'existe pas déjà. Si c'est le cas, vous pouvez cliquer sur son nom pour pouvoir voter pour. Si vous êtes sûr que c'est un nouveau jeu, cliquez sur le bouton "Ajouter VRAIMENT ce jeu", mais assurez-vous de ne pas créer de doublons dans ce cas.{{br /}}
+	Une fois le jeu ajouté, les autres visiteurs pourront le chercher et voter pour. Pas la peine de voter vous-même pour ce jeu : c'est fait dès qu'il est créé.</text>
+	
+	<text id="question5">Comment allez-vous jouer ? Avec une vraie console ou par émulation ?</text>
+	<text id="answer5">Nous essayerons d'utiliser de vraies consoles autant que possible, pour expérimenter différentes façons de jouer avec chacune. Nous avons une bonne collection de consoles et de jeux, mais il nous en manque forcément certains. Si nous n'avons pas la console ou le jeu voulu, nous utiliserons l'émulation, soit avec la Virtual Console sur Wii, soit avec une Xbox, soit sur PC si rien d'autre n'existe.{{br /}}
+	Les jeux pour consoles portables se joueront bien sûr sur émulateurs !</text>
+	
+	<text id="question6">Comptez-vous juste atteindre la fin de chaque jeu, ou les finir à 100% ?</text>
+	<text id="answer6">Ce serait déjà un miracle si on finissait tout avant notre mort ! Finir les jeux à 100% n'est pas vraiment notre objectif.</text>
+	
+	<text id="question7">Vous avez oublié ma console préférée ! Je vous hais !</text>
+	<text id="answer7">Nous avons ajouté les consoles les plus connues, mais ça ne veut pas dire que vous ne pouvez pas ajouter des jeux pour des consoles absentes de la liste. Choisissez juste "Autre" dans la liste des consoles, puis entrez son nom dans le champ qui apparait. Mais gardez en tête que nous n'avons pas toutes les consoles existantes, et que nous avons quelques limitations techniques. Lisez la question ci-dessous pour en savoir plus.</text>
+	
+	<text id="question8">Alors, je peux ajouter n'importe quel jeu ?</text>
+	<text id="answer8">
+	Même s'il s'agit du Everything Marathon, il y a quelques limitations concerant les jeux que nous pourrons faire. Certaines pour des raisons techniques, d'autres pour des raisons pratiques.{{br /}}{{br /}}
+	Il y a quelques consoles/jeux que nous ne pourront pas faire, parce que nous ne les avons pas et qu'ils ne sont pas émulés correctement. Cela ne veut pas dire que vous ne pouvez pas ajouter un jeu peu connu pour une console peu connue, juste qu'il est possible que nous ne puissions pas y jouer.{{br /}}
+	Il y a au moins une console que nous ne pourrons pas faire : la Nintendo DS. Nous n'avons aucun moyen de la brancher sur une télé, l'émulation de la console est loin d'être parfaite et fait perdre quelques éléments de gameplay, et utiliser une webcam pour filmer l'écran donnerait une image moche et peu pratique pour jouer. Donc, même si nous sommes tous des fans de la DS, nous ne pourrons pas faire de jeu pour cette console.{{br /}}{{br /}}
+	Pour ce qui est des raisons pratiques, il y en a quelques unes. Merci de ne PAS ajouter :{{br /}}
+	{{ul}}
+	{{li}}Des jeux ennuyeux. C'est aussi simple que ça : si c'est ennuyeux à jouer et/ou à regarder, pas la peine de le faire. Sauf si on veut vous faire dormir.{{/li}}
+	{{li}}Des jeux plein de texte jamais traduit en anglais. Aucun de nous ne parle japonais, ce qui veut dire par exemple que les RPG jamais sorti du Japon seraient assez difficiles à faire. Sauf si vous êtes sûr de pouvoir nous aider par Twitter ! Bien sûr, ça ne s'applique pas aux jeux où comprendre les textes n'est pas nécessaire pour jouer et s'amuser.{{/li}}
+	{{li}}Des jeux sans aucun but clair. Nous devons finir le jeu, alors il doit avoir une fin. Ça veut dire pas de MMORPG par exemple, et probablement pas de jeux de course ou des puzzle games. Certains ONT une fin, et il et toujours possible de fixer nos propres buts, mais c'est plus sympa de vivre une aventure qui démarre quelque part et se termine ailleurs.{{/li}}
+	{{li}}Des jeux très très longs, d'un autre côté. Cela concerne par exemple certains RPG qui nous prendraient des centaines d'heures avant d'en voir le bout : jouer au même jeu aussi longtemps aura vite fait de nous endormir, et vous aussi. Dans n'importe quel ordre. Cela ne veut pas dire que vous ne pouvez pas ajouter de jeux longs, juste qu'il faut garder un certain maximum.{{/li}} 
+	{{li}}Des jeux fan-made. Certains sont bons, et même mieux que des jeux commerciaux, mais il y en a beaucoup trop, avec un large spectre au niveau de la qualité. Nous pouvons toujours faire des exceptions, mais si on vous voit ajouter "I Wanna Be The Guy", ça va mal se passer.{{/li}}
+	{{li}}Des jeux centrés sur la violence et/ou le sexe. Vous pouvez ajouter des jeux Mature ou 18+ bien évidemment, sans quoi on louperait pas mal de bons jeux, mais nous préférons rester en dessous du niveau où ça devient dégoûtant sans aucune raison. Nous voulons faire quelque chose que tout le monde peut apprécier. Cela veut aussi dire : pas de jeux hentai. Désolé, ça nous chagrine autant que vous.{{/li}}
+	{{/ul}}
+	{{br /}}
+	La liste peut sembler longue, mais même en prenant en compte ces restrictions, il y a encore un paquet de bons jeux. Tant qu'on y est, ne vous gênez pas d'ajouter :{{br /}}
+	{{ul}}
+	{{li}}Des jeux obscures mais bons. On en connait tous un : celui que l'on aime particulièrement, mais pour lequel on reçoit toujours la réponse "Je le connais pas, celui-là" quand on en parle à quelqu'un. Ça pourrait être l'occasion de les faire découvrir !{{/li}}
+	{{li}}Des jeux avec des énigmes et des choses du genre. Comme ça, on pourra toujours vous demander de l'aide quand on est bloqué. Enfin, on va probablement bloquer souvent même sur les jeux normaux.{{/li}}
+	{{li}}Des jeux si mauvais qu'ils sont bons. Vous voyez ce que c'est : un scénario stupide, un doublage à côté de la plaque, des bugs ridicules, tout ce qui se prend trop au sérieux mais qui fait rire finalement. Bien sûr, nous allons aussi faire des jeux qui SONT bons, mais pourquoi toujours choisir l'élite ?{{/li}}
+	{{li}}Des jeux pas souvent utilisés dans des marathons. Si un Mario, un Zelda ou un Final Fantasy se retrouve sur la liste, on y jouera, mais autant en profiter pour essayer d'autres séries qui méritent elles aussi un peu d'attention !{{/li}}
+	{{/ul}}{{br /}}
+	Bien sûr, il est toujours possible de faire des exceptions pour la plupart de ces règles, si un jeu se montre extrêmement populaire. Mais essayez de les respecter au maximum, pour le bien de notre santé mantale.
+	</text>
+	
+	<text id="question9">Au fait...Vous êtes qui ?</text>
+	<text id="answer9">Juste quelques étudiants du Nord de la France, avec rien à faire pendant les vacances sauf ça. VRAIMENT rien à faire, comme vous voyez.</text>
+	
+	<text id="question10">La diffusion sera-t-elle en anglais ou en français dans ce cas ?</text>
+	<text id="answer10">La plupart d'entre nous parlons anglais, alors il y aura peut-être des parties en anglais (attenton à nos horribles accents !), mais nous parlerons en français la plupart du temps. Les questions et remarques que nous recevront en anglais seront traitées en anglais, bien sûr.</text>
+	
+	<text id="question11">Et pour les jeux ?</text>
+	<text id="answer11">Les jeux seront en anglais, pour que tout le monde puisse nous aider si on se plante. On aura parfois pas le choix pour les jeux pas traduits de toute façon !</text>
+	
+	<text id="question12">J'ai une question, une remarque, vu une erreur, ou suis particulièrement en rogne contre vous pour une raison ou pour une autre. Comment vous contacter ?</text>
+	<text id="answer12">Utilisez le bouton "Nous contacter" à gauche pour nous envoyer un mail, mais ce n'est pas la méthode la plus rapide. Si vous avez un compte Twitter, utilisez le hashtag #EverythingMarathon pour les remarques générales. Pour les questions directes, utilisez @EveryMarathon. Nous répondrons aussi vite que possible.</text>
+	
+	<text id="question13">Pourquoi ne pas collecter de l'argent pour une œuvre de charité ?</text>
+	<text id="answer13">Nous venons tout juste de commencer ce projet, et nous ne savons pas du tout s'il aura du succès ou non. Si c'est pour seulement collecter 5$, ce n'est pas la peine. C'est un test en quelques sortes. Si ce projet se montre populaire, nous le referons peut-être en collectant cette fois des donations. Si ça n'intéresse personne par contre, pas la peine de le refaire, hm ?</text>
+	
+	<text id="question14">Dis donc, je ne m'étais pas rendu compte que j'avais tant de questions !</text>
+	<text id="answer14">Vous voyez, on vous l'avait bien dit !</text>
+</language>

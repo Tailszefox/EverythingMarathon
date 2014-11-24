@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<language  xmlns:html="http://www.w3.org/TR/REC-html40">
+	<text id="language">Language</text>
+	<text id="english">English</text>
+	<text id="french">Français (French)</text>
+	<text id="copyright">All trademarks used on this page are property of their respective owners.{{br /}}Author of this drawing unknown. If you know who it is, please contact us so we can give proprer credits.</text>
+	<text id="menuMain">Main page</text>
+	<text id="menuVote">Vote{{br /}}for the games</text>
+	<text id="menuFaq">FAQ</text>
+	<text id="menuContact">Contact us</text>
+	
+	<text id="javascriptDisabled">It looks like Javascript is disabled. You won't be able to vote without it!</text>
+	<text id="canAdd">Don't forget: if the game you want to vote for isn't in the database, you can add it by pressing the button below!</text>
+	<text id="beforeAdding">Before adding a new game, check that it doesn't already exist by using the search form.{{br /}}Don't forget to read the {{a href="faq.php5"}}guidelines{{/a}} in the FAQ too. Or don't. Whatever.</text>
+	<text id="addNewGame">Add a new game</text>
+	<text id="title">Title</text>
+	<text id="console">Console</text>
+	<text id="consoleName">Console name</text>
+	<text id="genre">Genre</text>
+	<text id="alsoKnownAs">Also known as</text>
+	<text id="alsoKnownAsExplanation">If you know other names for this game (for example, a different name for the American and PAL releases, or a "fan name"), please write them here, separated by a line break.</text>
+	<text id="captcha">What's 40 + 2?</text>
+	<text id="captchaExplanation">You need to type 42, in case you didn't know. Simple anti-bot measure.</text>
+	<text id="addThisGame">Add this game!</text>
+	<text id="reallyAddThisGame">REALLY add this game!</text>
+	
+	<text id="search">Search for a game</text>
+	<text id="noResults">No results. Maybe the game doesn't exist? Try adding it!</text>
+	
+	<text id="gameAdded">The game was added successfully. No need to vote for it, we took care of that for you!</text>
+	<text id="alreadyExists">The game you're trying to add already exists in our database, maybe under an alternate name. No need to add it twice!</text>
+	<text id="clickForVote">Just click on its name to be able to vote for it.</text>
+	<text id="alreadyExistsOtherConsoles">We already have the game you're trying to add in our database, albeit on other consoles.{{br /}}If the game you want to add is identical to one of them, just click on its name to be able to vote for it. If the game is multi-platform, we'll pick the most convenient version for us.{{br /}}</text>
+	<text id="maybeAlreadyExists">The game you want to add may already exist in our database. But then again, maybe not.{{br /}}Look at those titles to see if one of them was the game you were trying to add. If that's the case, just click on its name to be able to vote for it.</text>
+	<text id="clickForReallyAdd">If, however, the game you want to add is different to those already available, click the "REALLY add this game!" button above to add it.</text>
+	<text id="aka">a.k.a.</text>
+	
+	<text id="tooMuchResults">This search returned quite a lot of games, and there may be more. You might want to refine your search a little...</text>
+	
+	<text id="votes">Votes</text>
+	<text id="alreadyVoted">You already voted for this game!</text>
+	<text id="voteForThisGame">Add a vote for this game</text>
+	
+	<text id="searchResults">Search results</text>
+	<text id="topGames">Top games</text>
+	<text id="lastVotes">Last votes made</text>
+	<text id="lastGames">Last games added</text>
+	
+	<text id="welcome">Welcome to the Everything Marathon!</text>
+	<text id="intro">{{p}}What is this thing, you may ask? It's simple. You may have seen video games marathon before: a {{a href="http://www.mariomarathon.com/"}}Super Mario Marathon{{/a}} happened just recently, and there's even a {{a href="http://www.thespeedgamers.com/"}}Final Fantasy Marathon{{/a}} right now!{{/p}}
+	{{p}}The Everything Marathon works the same way: we intend to play, non-stop, and try to finish the maximum of games possible. However, we're not going to focus on a particular serie of games. Instead, we will ask YOU to tell us what you would want to see us play. It's pretty easy to do: read the FAQ first if you're unsure, then head to the voting page. Add the games you want, vote for those already there, and at the end of the voting period, we'll play the games that got the most votes.{{/p}}
+	{{p}}However, since we're not collecting donations, the number of games we'll play will depend on how much people vote. Take a look at the table below to see how much voters there are, and how much games that means we'll do. If you want to see more games, well, it's simple: vote, tell your friends, spread the word!{{/p}}
+	{{p}}{{strong}}Voting will end on July 24 at 10pm GMT+2 (that's 4pm EDT, 9pm GMT+1).{{br /}}The stream will be launched (or rather, we'll try to be ready) on July 25 at 2pm GMT+2 (8am EDT, 1pm GMT+1).{{/strong}}{{/p}}</text>
+	<text id="currentVoters">Current number of voters:</text>
+	
+	<text id="numberOfGames">Number of games played</text>
+	<text id="numberofVoters">Number of voters needed</text>
+	<text id="ok">OK!</text>
+	<text id="lotsOfVoters">We'll try to do 6 games, and maybe more if we're still alive after that...</text>
+	<text id="twitter">#EverythingMarathon hashtag on Twitter:</text>
+	<text id="chat">Chat:{{br /}}To choose your nickname, you must register on {{a href="http://www.ustream.tv/login-signup"}}uStream{{/a}}.{{br /}}Or, you can connect using IRC, server {{strong}}chat1.ustream.tv{{/strong}}, channel {{strong}}#everythingmarathon{{/strong}}!</text>
+	
+	<text id="votesClosed">Voting is now closed!</text>
+	<text id="votesClosed2">Thanks to our 143 voters! Here are the six games that got the most votes:</text>
+	<text id="votesClosed3">We'll try to finish those first...And if we're still alive then, we might do more!</text>
+	<text id="bonusStage">Bonus Stage!</text>
+	<text id="bonusStage2">Sometimes, we'll play some other games in parallel. It could be another game in the list, or a completely different one. And it could happen at any time, so stay tuned if you don't want to miss them!{{br /}}{{br /}}To our English-speaking viewers, we're sorry but we only got a few votes from you. Since the vast majority of our visitors speak French, the stream will only be in French, and the game will be played in French. You can always send us remarks and help in English though!</text>
+	<text id="reminder">The stream will be launched (or rather, we'll try to be ready) on July 25 at 2pm GMT+2 (8am EDT, 1pm GMT+1)!</text>
+	
+	<text id="marathonInProgress">The marathon is now in progress!</text>
+	<text id="newPage">Display the stream and the chat only</text>
+	<text id="gamesPlayed">Games played:</text>
+	<text id="status">Status</text>
+	<text id="started">From  (GMT+2)</text>
+	<text id="finished">To</text>
+	<text id="inProgress">In progress...</text>
+	<text id="nextDay">Next day</text>
+	<text id="chatNewPage">The chat has been moved to a new page. Click on the link above the video to see it.</text>
+	<text id="chat2">To choose your nickname, you must register on {{a href="http://www.ustream.tv/login-signup"}}uStream{{/a}}.{{br /}}Or, you can connect using IRC, server {{strong}}chat1.ustream.tv{{/strong}}, channel {{strong}}#everythingmarathon{{/strong}}!</text>
+	<text id="backMainPage">Back to the main page</text>
+	
+	<text id="marathonOver">The marathon is now over!</text>
+	<text id="marathonOver2">Thanks to all our viewers, especially those who participated to the marathon with us using the chat!{{br /}}{{br /}}We're not sure we'll do it again one day, considering the low number of viewers, but nothing is decided. We'll see! In any case, we want to thank again those who followed us during the majority of the marahton. So...thanks!{{br /}}{{br /}}Below is a list of games we played during the marathon. We were able to finish the six games chosen by you, and do some bonus stages. We didn't finish some games in one sitting, because doing a pause once in a while can be nice, that's why some of them appear multiple times.{{br /}}{{br /}}See you next time...Maybe!</text>
+	<text id="voggle">Voggle, our new mascot!</text>
+	<text id="continued">(continued)</text>
+	<text id="end">(end)</text>
+	<text id="time">Time</text>
+	<text id="totalPlayTime">Total playtime for each game:</text>
+	<text id="uselessStream">Now useless stream:</text>
+	<text id="chatOver">Chat:</text>
+	
+	<text id="faqIntro">Here you'll find answers to some questions you might not even know you needed answers for!</text>
+	
+	<text id="question1">So how does this thing work, exactly?</text>
+	<text id="answer1">It's pretty easy: we'll play a number of games based on the numbers of people that voted for one or more games. The games we'll play will be those that got the most votes at the end of the voting period.</text> 
+	
+	<text id="question2">How do I vote for a game? Do I need to register?</text>
+	<text id="answer2">Nope. Just go to the voting page, click on the vote button (that one: {{img alt="Vote" src="plus.png" /}}), and you're done! Remember that you can vote for one game only once. You'll see games you've already voted for with a black and white button.</text>
+	
+	<text id="question3">How do I search for a game I want to vote for?</text>
+	<text id="answer3">There's a search box at the top of the voting page. You can enter a title, a console, a genre, or a combination of the three, to see if the game is already available. If it's not, then why not try to add it?</text>
+	
+	<text id="question4">Okay. So how do I add a game?</text>
+	<text id="answer4">Click the "Add a new game" button to make a new form appear. Try to be as accurate as possible (check the spelling of the game's name, and add all the alternate names you can think of) and click the "Add this game!" button. We'll first do a search in our database to see if the game, or something close, isn't already available. If it is, you can just click on its name to do a search and vote for it. If you're sure you're adding a new game, you can click the "REALLY add this game" button, but be sure you're not creating a duplicate then.{{br /}}
+	Once your game is created, other people will be able to search and vote for it. No need to vote for it yourself: it's done as soon as it's created.</text>
+	
+	<text id="question5">How will you play the games? With an original console, or on emulation?</text>
+	<text id="answer5">We'll try to play with an original console as much as possible, to experience a different gameplay with every game. We have a good collection of consoles and games, but of course we miss some of them. If we don't have the game or the console to play it though, we'll work with emulation, either on the Wii trough the Virtual Console, with a Xbox, or with a PC if no emulator is available for any home console.{{br /}}
+	Handled games will have to be played with an emulator of course!</text>
+	
+	<text id="question6">Do you intend to just reach the ending of each game, or do a 100% completion?</text>
+	<text id="answer6">It would be a miracle if we can finish all the games before we're dead! A 100% completion isn't really what we intend to do.</text>
+	
+	<text id="question7">You forgot my favorite console! I hate you!</text>
+	<text id="answer7">We added the most popular consoles, but that doesn't mean you can't add games for consoles not in the list. Just choose "Other" in the consoles list, and you'll have a new box where you can enter its name. Remember we don't have all the consoles in existence available, and we have some technical limitations. See the question below.</text>
+	
+	<text id="question8">So can I add any game I want?</text>
+	<text id="answer8">While it IS called the Everything Marathon, we have some limitations concerning the games we'll be able to play. Some for technical reasons, some for practical reasons.{{br /}}{{br /}}
+	There are some consoles/games we won't be able to play, because we don't have them and they can't be emulated correctly. That doesn't mean you can't add an obscure game for an obscure console to the mix, just that it's not guaranted that we'll play it if we find no way to do so.{{br /}}
+	There is at least one console that we won't be able to do for sure: the Nintendo DS. We have no way to plug it into the TV, emulation for this console doesn't work 100% and make you lose gameplay elements, and using a webcam to film the screen would be ugly AND hard to play. So, even though we're all DS fans, we won't be able to do games for this one.{{br /}}{{br /}}
+	As for the practical reasons, there are a few of them. Please do NOT submit:{{br /}}
+	{{ul}}
+	{{li}}Boring games. It's as simple as that: if it's boring to play and/or watch, there would be not point in playing it. Except if we want to make you sleep.{{/li}}
+	{{li}}Text-heavy games never translated in English. None of us speak Japanese for example, so a Japan-only RPG would be pretty hard to play. Unless you're sure you can provide us with pointers via Twitter! Of course, that doesn't apply to games where understading the text is not a requirement to play and have fun.{{/li}}
+	{{li}}Games with no clear goals. We need to finish the game, so it must have an ending. That means no MMORPG for example, and probably not most of the racing or puzzle games. Some of them HAVE a clear ending, and we can always set goals ourselves, but it's better to live an adventure that starts somewhere and ends somewhere else.{{/li}}
+	{{li}}On the other hand, really really long games. That includes for example some RPG that would take us hundered of hours before we can finish them: playing the same game for so long will soon bore us and then you, or the other way around. That doesn't mean you can't submit games that take time to be completed, but try to keep some sort of maximum.{{/li}} 
+	{{li}}Fan-made games. While some of them are good, and even better than some commercial games, there are way too many of them, with a large spectrum of quality. We can always do some exceptions of course, but if we see that you submitted "I Wanna Be The Guy", it's not going to end well.{{/li}}
+	{{li}}Games very heavy on violence and/or sex. That doesn't mean you can't submit Mature or 18+ games of course, that would exclude some really good games, but try to keep it below the level when it starts getting disgusting for no reason. We prefer to do a show that can be enjoyed by everyone. That also means, no hentai games. Sorry, it saddens us as much as you.{{/li}}
+	{{/ul}}
+	{{br /}}
+	That may seems like a long list, but really, even when taking those restrictions into account there are still a plethora of awesome games available. While we're at it, on the other hand, please DO submit:{{br /}}
+	{{ul}}
+	{{li}}Obscure but good games. We all know at least one of them: the kind that you really love, but when you speak about it with other people, the only answer you get is "Huh? Never played that one.". That could be their chance to shine!{{/li}}
+	{{li}}Games featuring puzzles and this kind of stuff. That way, we can try asking you in case we become stuck. Though, we will probably also get stuck a lot with regular games.{{/li}}
+	{{li}}Games so bad they're good. You get the idea: ridiculous scenario, horrible voice acting, stupid bugs, anything that takes itself too seriously but makes you laugh in the end. Of course, we'll also play games that ARE good on their own, but hey, why always pick the best?{{/li}}
+	{{li}}Games not often featured on marathons. If a Mario, a Zelda or a Final Fantasy gets in the list, we'll do it, but why not try more original series?{{/li}}
+	{{/ul}}{{br /}}
+	Of course, we may do exceptions to most of these rules if one game proves to be particulary popular, but try to respect them as much as possible, for our own sanity.
+	</text>
+	
+	<text id="question9">So...Who are you anyway?</text>
+	<text id="answer9">We're just a bunch of college students from Northern France, with nothing to do during the holiday but this. REALLY nothing to do, as you can imagine.</text>
+	
+	<text id="question10">Is the stream gonna be in English or French, then?</text>
+	<text id="answer10">Most of us can speak English, so there may be segments in English (watch out for our terrible accent!), but we'll speak French most of the time. Don't worry, you can always send us remarks or questions, and we'll answer them in English.</text>
+	
+	<text id="question11">What about the games?</text>
+	<text id="answer11">The games will be played in English, so everyone can try helping us in case we get stuck. We won't even have the choice for some of them anyway!</text>
+	
+	<text id="question12">I have a question, remark, spotted some kind of error, or I am particulary angry at you for some reason. How do I contact you?</text>
+	<text id="answer12">Use the "Contact us" button on the left to send us an email, but this may not be the fastest way. If you have a Twitter account, use the #EverythingMarathon hashtag for general remarks. If you want to ask us a question directly, use @EveryMarathon. We'll try to answer as soon as possible.</text>
+	
+	<text id="question13">Why aren't you collecting donations for a charity?</text>
+	<text id="answer13">Since we just started doing this, we have no idea if it's going to be successful or not. If we only get $5, there would be absolutely no point. This is a test case of some sort. If this gets popular, we might do it again, and this time we could collect donations. If nobody is interested however, well, no need to try again, eh?</text>
+	
+	<text id="question14">Wow, I never thought I had so many questions!</text>
+	<text id="answer14">See, told you so.</text>
+</language>

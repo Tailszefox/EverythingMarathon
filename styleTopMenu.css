@@ -1,0 +1,14 @@
+#menuTopScreen
+{
+	visibility: visible !important;
+}
+
+#menu
+{
+	visibility: hidden !important;
+}
+
+#header, #content, #footer
+{
+	right: 0px !important; 
+}
