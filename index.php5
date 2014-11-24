@@ -113,8 +113,10 @@ echo '<thead><tr><td>'.display('title', false).'</td><td>'.display('time', false
 </object>
 </div>
 
+<!--
 <p><?php display('twitter') ?></p>
 <iframe src="http://www.ustream.tv/twitterjs/iframe?prefix=%23EverythingMarathon&amp;suffix=Live+at+http%3A%2F%2Fustre.am%2F4cAC" width="549" height="325" frameborder="0" style="border:0px none transparent" scrolling="no"></iframe>
+-->
 
 <p><?php display('chatOver') ?></p>
 <object type="application/x-shockwave-flash" data="http://www.ustream.tv/flash/irc.swf" height="320" width="600">
