@@ -8,6 +8,9 @@ function getAkas($id)
 {
 	$akas = SelectQueryMultiple('SELECT * FROM alternates WHERE id_jeu = "'.$id.'"');
 	
+	// Array vide pour commencer
+	$aka = array();
+
 	//Noms alternatifs ?
 	if(!empty($akas))
 	{
@@ -110,8 +113,15 @@ if(empty($games))
 }
 else
 {
-	$result = SelectQuery('SELECT numericId FROM votants WHERE id = "'.mysql_real_escape_string($id).'" LIMIT 1');
-	$numericId = $result['numericId'];
+	if(empty($id))
+	{
+		$numericId = -1;
+	}
+	else
+	{
+		$result = SelectQuery('SELECT numericId FROM votants WHERE id = "'.mysql_real_escape_string($id).'" LIMIT 1');
+		$numericId = $result['numericId'];
+	}
 	
 	echo '<table class="tableGames">';
 	echo '<thead><tr><td>'.display('title', false).'</td><td>'.display('console', false).'</td><td>'.display('genre', false).'</td><td>'.display('votes', false).'</td></tr></thead>';
