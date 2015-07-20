@@ -76,13 +76,14 @@ if($_POST['type'] == 'search')
 		$gamesAlt = array();
 		
 	$games = array_merge($gamesNames, $gamesAlt);
+	$fullGames = $games;
 	$taille = sizeof($games);
 	//On retire les doublons
 	for($i = 0; $i < $taille; $i++)
 	{
 		for($j = $i+1; $j < $taille; $j++)
 		{
-			if($games[$i]['idJeu'] == $games[$j]['idJeu'])
+			if($fullGames[$i]['idJeu'] == $fullGames[$j]['idJeu'])
 				unset($games[$j]);
 		}
 	}
