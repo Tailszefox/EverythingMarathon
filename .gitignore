@@ -1,5 +1,5 @@
 # Fichier de configuration
-config.txt
+config.php
 
 # Sauvegardes SQL
 *.sql
